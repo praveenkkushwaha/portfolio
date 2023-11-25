@@ -1,6 +1,16 @@
 title: Praveen Kushwaha
 logo: /assets/img/praveen_photograph.jpg
-description: Data Science Enthusiast
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/praveenkushwahamech/">LinkedIn</a> |
+  <a href="https://github.com/praveenkkushwaha">GitHub</a>
+  
+  <br>   
+  Data Science Enthusiast.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
