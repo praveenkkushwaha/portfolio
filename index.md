@@ -1,24 +1,23 @@
 # Data Science Portfolio
 ---
-## Machine learning
+## Linear Regression
 
-### Amazon Reviews Analysis 
+###  Understanding Dynamics of Bike Ridership
 
-In the era of e-commerce, understanding customer sentiment is crucial for businesses to make informed decisions and enhance user experience. This project aims to perform sentiment analysis on Amazon product reviews using machine learning techniques, specifically employing the Random Forest algorithm. The goal is to develop a model that accurately classifies reviews as positive and negative providing valuable insights for businesses and customers alike.
-This project not only contributes to the field of sentiment analysis but also provides a practical solution for businesses aiming to harness the power of machine learning for understanding and improving customer satisfaction.
+The primary objective of this study is to identify and analyze the various factors influencing the fluctuations in the number of bike riders. By understanding these factors, the project aims to provide valuable insights to the management, enabling them to comprehend how demand varies across different features. The ultimate goal is to leverage this understanding in crafting a strategic and mindful business plan to accelerate revenue in the bike-sharing industry.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/NLP_amazon_reviews_project.git)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/Bike-Sharing-Assignment.git)
 
 <center><img src="images/new_sen.png"/></center>
 
 ---
-### Laptop Price Predictor Model 
+### Lending Club Case Study
 
-This model able to predict Price of laptop on basis of specification of laptop provided.
+"A Comprehensive Exploration of Loan Defaulters: Unraveling Patterns, Predictors, and Recommendations"
 
-This project aims to develop a Laptop Price Predictor using the XGBoost machine learning algorithm. XGBoost, known for its efficiency and predictive power, will be employed to create a model that can analyze multiple features of laptops and provide reliable price predictions. The outcome will be a valuable tool for consumers, retailers, and manufacturers seeking insights into the factors influencing laptop pricing.
+The primary objective of this analysis is to meticulously identify the key factors that contribute to loan defaults. Through the application of advanced analytical techniques, the goal is to furnish stakeholders and investors with a nuanced understanding of the intricacies involved. The ultimate aim is to provide actionable insights that can be utilized to mitigate risks and optimize lending practices in order to foster a more secure and sustainable financial ecosystem.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/Laptop_price_predictor.git)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/LendingClubCaseStudy/blob/master/praveen_kumar_kushwaha.ipynb.git)
 
 <center><img src="images/new_lap.png"/></center>
 
