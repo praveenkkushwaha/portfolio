@@ -8,7 +8,7 @@ The primary objective of this study is to identify and analyze the various facto
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/Bike-Sharing-Assignment.git)
 
-<center><img src="images/new_sen.png"/></center>
+
 
 ---
 ### Lending Club Case Study
@@ -17,8 +17,9 @@ The primary objective of this study is to identify and analyze the various facto
 
 The primary objective of this analysis is to meticulously identify the key factors that contribute to loan defaults. Through the application of advanced analytical techniques, the goal is to furnish stakeholders and investors with a nuanced understanding of the intricacies involved. The ultimate aim is to provide actionable insights that can be utilized to mitigate risks and optimize lending practices in order to foster a more secure and sustainable financial ecosystem.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/LendingClubCaseStudy/blob/master/praveen_kumar_kushwaha.ipynb.git)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/praveenkkushwaha/LendingClubCaseStudy.git)
 
-<center><img src="images/new_lap.png"/></center>
+
+
 
 
